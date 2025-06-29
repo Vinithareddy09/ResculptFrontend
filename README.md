@@ -4,6 +4,10 @@
 
 This UI provides an interactive and motivating environment for developers to visualize their achievements, engage with the community, and track their learning journey.
 
+🔗 **Project Repositories:**  
+- Frontend: [ReSculptFrontend](https://github.com/Vinithareddy09/ResculptFrontend)  
+- Backend: [ReSculptBackend](https://github.com/Vinithareddy09/ResculptBackend)
+
 ---
 
 ## 📁 Project Structure
