@@ -6,12 +6,6 @@ This UI provides an interactive and motivating environment for developers to vis
 
 ---
 
-## 🌐 Live Preview
-
-> _Optional: Add live demo link if hosted_
-
----
-
 ## 📁 Project Structure
 ```bash
 ResculptFrontend/
@@ -58,3 +52,23 @@ ResculptFrontend/
    ```bash
    npm start
    ```
+---
+## 🔗 Backend Integration
+This frontend communicates with the backend via REST APIs for:
+
+- Fetching badge and leaderboard data
+
+- Posting and retrieving user contributions
+
+- Visualizing personalized progress
+## TechStack
+- React.js
+
+- Tailwind CSS
+
+- Axios (API calls)
+
+- Chart.js / Recharts (for graphs)
+
+- Node.js + Express (backend)
+
